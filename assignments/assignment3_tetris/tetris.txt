@@ -6,7 +6,7 @@ cycler==0.11.0
 distlib==0.3.4
 filelock==3.7.0
 fonttools==4.33.3
-gym==0.21.0
+git+https://github.com/openai/gym.git@9180d12e1b66e7e2a1a622614f787a6ec147ac40
 gym-notices==0.0.6
 importlib-metadata==4.11.3
 iniconfig==1.1.1
